@@ -1,0 +1,4 @@
+requests
+tk
+sqlite3
+pandas
