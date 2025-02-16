@@ -9,7 +9,7 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 
 # API Key (Replace with your actual API key)
-API_KEY = "089e9061eb568e0a637bae49d7679e90"
+API_KEY = "ENTER YOUR API KEY HERE"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # Configure Logging
